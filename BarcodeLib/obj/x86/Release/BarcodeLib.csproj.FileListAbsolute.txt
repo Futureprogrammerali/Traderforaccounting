@@ -1,0 +1,16 @@
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Release\BarcodeLib.pdb

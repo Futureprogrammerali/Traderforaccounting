@@ -1,0 +1,5 @@
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\x86\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\x86\Debug\BarcodeLib.pdb

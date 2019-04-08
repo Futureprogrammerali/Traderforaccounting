@@ -1,0 +1,27 @@
+C:\Users\GlobalProgrammer\Desktop\Pr\bara\showed\CreateBaraCodeImage\BarCodeLibOO\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\GlobalProgrammer\Desktop\Pr\bara\showed\CreateBaraCodeImage\BarCodeLibOO\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\GlobalProgrammer\Desktop\Pr\bara\showed\CreateBaraCodeImage\BarCodeLibOO\BarcodeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\GlobalProgrammer\Desktop\Pr\bara\showed\CreateBaraCodeImage\BarCodeLibOO\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\GlobalProgrammer\Desktop\Pr\bara\showed\CreateBaraCodeImage\BarCodeLibOO\BarcodeLib\obj\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Debug\BarcodeLib.pdb

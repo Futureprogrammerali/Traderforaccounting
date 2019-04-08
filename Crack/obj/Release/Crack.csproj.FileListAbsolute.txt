@@ -1,0 +1,67 @@
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\bin\Release\Crack.exe
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\bin\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\Crack.Form1.resources
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\Crack.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\Crack.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\Crack.exe
+D:\c#\My Simple Test\ADO\WeightsOrganizer\Crack\obj\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\bin\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\bin\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\Crack.Form1.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\Crack.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\Crack.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode - Copy\Crack\obj\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager - Copy\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\GenerateResource-ResGen.read.1.tlog
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\GenerateResource-ResGen.write.1.tlog
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\ResolveAssemblyReference.cache
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.GenerateResource.Cache
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.GenerateResource.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.exe
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\bin\Release\Crack.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Form1.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.Properties.Resources.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.GenerateResource.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.exe
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\Crack\obj\Release\Crack.pdb

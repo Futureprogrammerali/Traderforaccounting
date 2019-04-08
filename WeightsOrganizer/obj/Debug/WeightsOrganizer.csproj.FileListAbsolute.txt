@@ -1,0 +1,276 @@
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\bin\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\bin\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\obj\Debug\WeightsOrganizer.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\obj\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\WeightsOrganizer\WeightsOrganizer\obj\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.archives.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BaraCode128vewier.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BusinesDealControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientcontrol.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.companybillcontrol.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.CompanyControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ClientDealControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientbillcontrol.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.LogInOut.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.numbertextbox.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewAll.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.Righto.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingOutPutControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SettingoControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingInputControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StoreControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.TypesControl.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.viewClient.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewCompany.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewStore.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewTypes.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmabout.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmChangePasswrd.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmAllcompanybytype.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompany.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Dbaseoperation.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.erroro.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmDetails.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupCleinDeal.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupcompanyDeal.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmSumInput.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastClientAcount.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastCompanyAcount.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmbusinesdeal.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclienbill.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclientdeal.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclients.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompanybill.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminputstocktaking.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmMain.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmoutputstocktaking.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmRealMainForm.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmstore.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmtypes.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SalePointFrm.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Zero.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.BaraCodeDesigner.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BuyReturns.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SalesReturns.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturns.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturnsGroup.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmSalesReturn.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupSalesReturn.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SettingUi.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.exe
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.archives.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.BaraCodeDesigner.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BaraCode128vewier.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BusinesDealControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BuyReturns.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientcontrol.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.companybillcontrol.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.CompanyControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ClientDealControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientbillcontrol.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.LogInOut.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.numbertextbox.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SalesReturns.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewAll.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.Righto.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingOutPutControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SettingoControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingInputControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StoreControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.TypesControl.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.viewClient.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewCompany.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewStore.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewTypes.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmabout.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturns.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturnsGroup.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmChangePasswrd.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmAllcompanybytype.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompany.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Dbaseoperation.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.erroro.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmDetails.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupCleinDeal.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupcompanyDeal.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminfostore.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmSalesReturn.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupSalesReturn.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmSumInput.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastClientAcount.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastCompanyAcount.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmbusinesdeal.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclienbill.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclientdeal.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclients.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompanybill.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminputstocktaking.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmMain.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmoutputstocktaking.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmRealMainForm.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmstore.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmtypes.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Properties.Resources.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SalePointFrm.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SettingUi.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Zero.resources
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.GenerateResource.Cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.exe
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\System.Web.Services.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.archives.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.BaraCodeDesigner.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BaraCode128vewier.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BusinesDealControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BuyReturns.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientcontrol.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.companybillcontrol.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.CompanyControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ClientDealControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientbillcontrol.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.LogInOut.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.numbertextbox.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SalesReturns.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewAll.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.Righto.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingOutPutControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SettingoControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingInputControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StoreControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.TypesControl.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.viewClient.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewCompany.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewStore.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewTypes.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmabout.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturns.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturnsGroup.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmChangePasswrd.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmAllcompanybytype.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompany.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Dbaseoperation.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.erroro.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmDetails.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupCleinDeal.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupcompanyDeal.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminfostore.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmSalesReturn.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupSalesReturn.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmSumInput.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastClientAcount.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastCompanyAcount.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmbusinesdeal.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclienbill.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclientdeal.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclients.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompanybill.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminputstocktaking.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmMain.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmoutputstocktaking.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmRealMainForm.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmstore.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmtypes.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Properties.Resources.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SalePointFrm.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SettingUi.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Zero.resources
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.GenerateResource.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.CopyComplete
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.exe
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.exe
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\WeightsOrganizer.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\System.Web.Services.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\bin\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.archives.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.BaraCodeDesigner.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BaraCode128vewier.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BusinesDealControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.BuyReturns.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientcontrol.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.companybillcontrol.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.CompanyControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ClientDealControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.clientbillcontrol.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.LogInOut.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.numbertextbox.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SalesReturns.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewAll.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.Righto.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingOutPutControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.SettingoControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StocktakingInputControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.StoreControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.TypesControl.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.viewClient.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewCompany.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewStore.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Controls.ViewTypes.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmabout.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturns.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmBuyReturnsGroup.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmChangePasswrd.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmAllcompanybytype.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompany.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Dbaseoperation.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.erroro.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmDetails.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupCleinDeal.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupcompanyDeal.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminfostore.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmSalesReturn.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmGroupSalesReturn.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmSumInput.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastClientAcount.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.LastCompanyAcount.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmbusinesdeal.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclienbill.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclientdeal.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmclients.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmcompanybill.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frminputstocktaking.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.FrmMain.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmoutputstocktaking.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmRealMainForm.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmstore.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.frmtypes.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Properties.Resources.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SalePointFrm.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.SettingUi.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.Zero.resources
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.GenerateResource.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.csproj.CopyComplete
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.exe
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\WeightsOrganizer\obj\Debug\WeightsOrganizer.pdb

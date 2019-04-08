@@ -1,0 +1,9 @@
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\bin\Release\Crypt.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\bin\Release\Crypt.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\bin\Release\Crypt.xml
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\Crypt.Resources.resources
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\Crypt.vbproj.GenerateResource.Cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\Crypt.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\Crypt.xml
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\Crypt\obj\Release\Crypt.pdb

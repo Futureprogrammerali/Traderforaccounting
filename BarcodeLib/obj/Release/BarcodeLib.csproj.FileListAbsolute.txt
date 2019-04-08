@@ -1,0 +1,20 @@
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.pdb
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.dll
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.pdb
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\ResolveAssemblyReference.cache
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.dll
+E:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\bin\Release\BarcodeLib.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\BarcodeLib\obj\Release\BarcodeLib.pdb

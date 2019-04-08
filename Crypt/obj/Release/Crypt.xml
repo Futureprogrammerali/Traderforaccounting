@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Crypt
+</name>
+</assembly>
+<members>
+<member name="M:Crypt.Crypt.Encrypt(System.String,System.Int32)">
+	<summary>
+ Encrypt a string
+ </summary>
+</member><member name="M:Crypt.Crypt.Decrypt(System.String,System.Int32)">
+	<summary>
+Decrypt a previously encrypted string.
+ </summary>
+</member>
+</members>
+</doc>

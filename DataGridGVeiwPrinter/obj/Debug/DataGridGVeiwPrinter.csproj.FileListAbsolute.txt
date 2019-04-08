@@ -1,0 +1,21 @@
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.pdb
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.pdb
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\ResolveAssemblyReference.cache
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.dll
+D:\c#\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\My Simple Test\ADO\التاجر\Tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\bin\Debug\DataGridGVeiwPrinter.pdb
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.csprojAssemblyReference.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.dll
+C:\Users\Mohamad Ali\Desktop\tager\WeightsOrganizerWithBaraCode\DataGridGVeiwPrinter\obj\Debug\DataGridGVeiwPrinter.pdb

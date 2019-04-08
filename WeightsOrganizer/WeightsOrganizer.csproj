@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7E55EC36-CD5C-41F0-98EB-D85E0E9EF1FC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WeightsOrganizer</RootNamespace>
+    <AssemblyName>WeightsOrganizer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>Resources\icon.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="archives.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="archives.Designer.cs">
+      <DependentUpon>archives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaraCodeDesigner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaraCodeDesigner.Designer.cs">
+      <DependentUpon>BaraCodeDesigner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BLL\All.cs" />
+    <Compile Include="BLL\Archives.cs" />
+    <Compile Include="BLL\BllSalePoint.cs" />
+    <Compile Include="BLL\BusinesReturns.cs" />
+    <Compile Include="BLL\DoucoumentPrinto.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BLL\frmRealMainForm.cs" />
+    <Compile Include="BLL\BusinesDeal.cs" />
+    <Compile Include="BLL\Client.cs" />
+    <Compile Include="BLL\ClientDeal.cs" />
+    <Compile Include="BLL\Company.cs" />
+    <Compile Include="BLL\ListClienttAccount.cs" />
+    <Compile Include="BLL\ListCompanytAccount.cs" />
+    <Compile Include="BLL\SalesReturns.cs" />
+    <Compile Include="BLL\Store.cs" />
+    <Compile Include="BLL\Types.cs" />
+    <Compile Include="Controls\BaraCode128vewier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BaraCode128vewier.designer.cs">
+      <DependentUpon>BaraCode128vewier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BusinesDealControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BusinesDealControl.Designer.cs">
+      <DependentUpon>BusinesDealControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BuyReturns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BuyReturns.Designer.cs">
+      <DependentUpon>BuyReturns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\clientcontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\clientcontrol.Designer.cs">
+      <DependentUpon>clientcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\companybillcontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\companybillcontrol.Designer.cs">
+      <DependentUpon>companybillcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CompanyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CompanyControl.Designer.cs">
+      <DependentUpon>CompanyControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ClientDealControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ClientDealControl.Designer.cs">
+      <DependentUpon>ClientDealControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\clientbillcontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\clientbillcontrol.Designer.cs">
+      <DependentUpon>clientbillcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LogInOut.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\LogInOut.Designer.cs">
+      <DependentUpon>LogInOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SalesReturns.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SalesReturns.Designer.cs">
+      <DependentUpon>SalesReturns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ViewAll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ViewAll.Designer.cs">
+      <DependentUpon>ViewAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Righto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Righto.Designer.cs">
+      <DependentUpon>Righto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StocktakingOutPutControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StocktakingOutPutControl.Designer.cs">
+      <DependentUpon>StocktakingOutPutControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\viewClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\viewClient.Designer.cs">
+      <DependentUpon>viewClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ViewCompany.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ViewCompany.Designer.cs">
+      <DependentUpon>ViewCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ViewStore.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ViewStore.Designer.cs">
+      <DependentUpon>ViewStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ViewTypes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ViewTypes.Designer.cs">
+      <DependentUpon>ViewTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\ArchivesDetails.cs" />
+    <Compile Include="DAL\LastClientsAccountDetails.cs" />
+    <Compile Include="DAL\LastCompanyAccountDetails.cs" />
+    <Compile Include="DAL\SalePointDal.cs" />
+    <Compile Include="frmabout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmabout.Designer.cs">
+      <DependentUpon>frmabout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuyReturns.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuyReturns.Designer.cs">
+      <DependentUpon>frmBuyReturns.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuyReturnsGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuyReturnsGroup.Designer.cs">
+      <DependentUpon>frmBuyReturnsGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChangePasswrd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChangePasswrd.Designer.cs">
+      <DependentUpon>FrmChangePasswrd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllcompanybytype.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAllcompanybytype.Designer.cs">
+      <DependentUpon>frmAllcompanybytype.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcompany.Designer.cs">
+      <DependentUpon>frmcompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dbaseoperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dbaseoperation.Designer.cs">
+      <DependentUpon>Dbaseoperation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="erroro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="erroro.Designer.cs">
+      <DependentUpon>erroro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportAndImportDbaseAsFile.cs" />
+    <Compile Include="FrmDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDetails.Designer.cs">
+      <DependentUpon>FrmDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupCleinDeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupCleinDeal.Designer.cs">
+      <DependentUpon>frmGroupCleinDeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupcompanyDeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupcompanyDeal.Designer.cs">
+      <DependentUpon>frmGroupcompanyDeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frminfostore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminfostore.Designer.cs">
+      <DependentUpon>frminfostore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalesReturn.Designer.cs">
+      <DependentUpon>frmSalesReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupSalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupSalesReturn.Designer.cs">
+      <DependentUpon>frmGroupSalesReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSumInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSumInput.Designer.cs">
+      <DependentUpon>FrmSumInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LastClientAcount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LastClientAcount.Designer.cs">
+      <DependentUpon>LastClientAcount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LastCompanyAcount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LastCompanyAcount.Designer.cs">
+      <DependentUpon>LastCompanyAcount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyDateTime.cs" />
+    <Compile Include="frminputstocktaking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminputstocktaking.Designer.cs">
+      <DependentUpon>frminputstocktaking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SettingoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\SettingoControl.Designer.cs">
+      <DependentUpon>SettingoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StocktakingInputControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StocktakingInputControl.Designer.cs">
+      <DependentUpon>StocktakingInputControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\StoreControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\StoreControl.Designer.cs">
+      <DependentUpon>StoreControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\TypesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\TypesControl.Designer.cs">
+      <DependentUpon>TypesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL\BaseData.cs" />
+    <Compile Include="DAL\BaseDealDetails.cs" />
+    <Compile Include="DAL\BaseDetails.cs" />
+    <Compile Include="DAL\BusinesDealDetails.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DAL\ClientDealDetails.cs" />
+    <Compile Include="DAL\ClientDetails.cs" />
+    <Compile Include="DAL\CompanyDetails.cs" />
+    <Compile Include="DAL\RealProvider.cs" />
+    <Compile Include="DAL\StoreDetails.cs" />
+    <Compile Include="DAL\TypeDetails.cs" />
+    <Compile Include="DAL\VirtualProvider.cs" />
+    <Compile Include="frmbusinesdeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbusinesdeal.Designer.cs">
+      <DependentUpon>frmbusinesdeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmclienbill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmclienbill.Designer.cs">
+      <DependentUpon>frmclienbill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmclientdeal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmclientdeal.Designer.cs">
+      <DependentUpon>frmclientdeal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmclients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmclients.Designer.cs">
+      <DependentUpon>frmclients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcompanybill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcompanybill.Designer.cs">
+      <DependentUpon>frmcompanybill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmoutputstocktaking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmoutputstocktaking.Designer.cs">
+      <DependentUpon>frmoutputstocktaking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRealMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRealMainForm.Designer.cs">
+      <DependentUpon>frmRealMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmstore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstore.Designer.cs">
+      <DependentUpon>frmstore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmtypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtypes.Designer.cs">
+      <DependentUpon>frmtypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="Controls\numbertextbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="archives.resx">
+      <DependentUpon>archives.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaraCodeDesigner.resx">
+      <DependentUpon>BaraCodeDesigner.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BaraCode128vewier.resx">
+      <DependentUpon>BaraCode128vewier.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BusinesDealControl.resx">
+      <DependentUpon>BusinesDealControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BuyReturns.resx">
+      <DependentUpon>BuyReturns.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\clientcontrol.resx">
+      <DependentUpon>clientcontrol.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\companybillcontrol.resx">
+      <DependentUpon>companybillcontrol.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CompanyControl.resx">
+      <DependentUpon>CompanyControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ClientDealControl.resx">
+      <DependentUpon>ClientDealControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\clientbillcontrol.resx">
+      <DependentUpon>clientbillcontrol.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\LogInOut.resx">
+      <DependentUpon>LogInOut.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\numbertextbox.resx">
+      <DependentUpon>numbertextbox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SalesReturns.resx">
+      <DependentUpon>SalesReturns.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ViewAll.resx">
+      <DependentUpon>ViewAll.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Righto.resx">
+      <DependentUpon>Righto.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StocktakingOutPutControl.resx">
+      <DependentUpon>StocktakingOutPutControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SettingoControl.resx">
+      <DependentUpon>SettingoControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StocktakingInputControl.resx">
+      <DependentUpon>StocktakingInputControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\StoreControl.resx">
+      <DependentUpon>StoreControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TypesControl.resx">
+      <DependentUpon>TypesControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\viewClient.resx">
+      <DependentUpon>viewClient.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ViewCompany.resx">
+      <DependentUpon>ViewCompany.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ViewStore.resx">
+      <DependentUpon>ViewStore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ViewTypes.resx">
+      <DependentUpon>ViewTypes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmabout.resx">
+      <DependentUpon>frmabout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuyReturns.resx">
+      <DependentUpon>frmBuyReturns.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuyReturnsGroup.resx">
+      <DependentUpon>frmBuyReturnsGroup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChangePasswrd.resx">
+      <DependentUpon>FrmChangePasswrd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllcompanybytype.resx">
+      <DependentUpon>frmAllcompanybytype.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcompany.resx">
+      <DependentUpon>frmcompany.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dbaseoperation.resx">
+      <DependentUpon>Dbaseoperation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="erroro.resx">
+      <DependentUpon>erroro.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDetails.resx">
+      <DependentUpon>FrmDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupCleinDeal.resx">
+      <DependentUpon>frmGroupCleinDeal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupcompanyDeal.resx">
+      <DependentUpon>frmGroupcompanyDeal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminfostore.resx">
+      <DependentUpon>frminfostore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalesReturn.resx">
+      <DependentUpon>frmSalesReturn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupSalesReturn.resx">
+      <DependentUpon>frmGroupSalesReturn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSumInput.resx">
+      <DependentUpon>FrmSumInput.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LastClientAcount.resx">
+      <DependentUpon>LastClientAcount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LastCompanyAcount.resx">
+      <DependentUpon>LastCompanyAcount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbusinesdeal.resx">
+      <DependentUpon>frmbusinesdeal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmclienbill.resx">
+      <DependentUpon>frmclienbill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmclientdeal.resx">
+      <DependentUpon>frmclientdeal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmclients.resx">
+      <DependentUpon>frmclients.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcompanybill.resx">
+      <DependentUpon>frmcompanybill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminputstocktaking.resx">
+      <DependentUpon>frminputstocktaking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmoutputstocktaking.resx">
+      <DependentUpon>frmoutputstocktaking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRealMainForm.resx">
+      <DependentUpon>frmRealMainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstore.resx">
+      <DependentUpon>frmstore.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtypes.resx">
+      <DependentUpon>frmtypes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalePointFrm.resx">
+      <DependentUpon>SalePointFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SettingUi.resx">
+      <DependentUpon>SettingUi.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Zero.resx">
+      <DependentUpon>Zero.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="DAL\Providers.cd" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.BusinesDeal.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Client.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Company.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Store.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Types.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Types1.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SalePointFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalePointFrm.Designer.cs">
+      <DependentUpon>SalePointFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingUi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SettingUi.Designer.cs">
+      <DependentUpon>SettingUi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Zero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Zero.Designer.cs">
+      <DependentUpon>Zero.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\type.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\company.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redamount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redclient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redcompany.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redtype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenamount.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greenclient.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greencompany.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.All.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.ClientAccount.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.CompanytAccount.datasource" />
+    <None Include="Resources\greentype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\searchgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.Archives.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.ClientDeal.datasource" />
+    <None Include="Resources\searchred.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Globalanddate.cd" />
+    <None Include="Resources\icon.ico" />
+    <None Include="Resources\clean.png" />
+    <None Include="Resources\insert.gif" />
+    <None Include="Resources\sub.png" />
+    <None Include="Resources\save.gif" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\logo.jpg" />
+    <None Include="Resources\ش.gif" />
+    <None Include="Resources\Barcode.ico" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.ListClienttAccount.datasource" />
+    <None Include="Properties\DataSources\WeightsOrganizer.BLL.ListCompanytAccount.datasource" />
+    <None Include="Resources\out.png" />
+    <None Include="Resources\in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BarcodeLib\BarcodeLib.csproj">
+      <Project>{F8646414-0C9C-49BB-9DA3-3923BF78A398}</Project>
+      <Name>BarcodeLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataGridGVeiwPrinter\DataGridGVeiwPrinter.csproj">
+      <Project>{8B09F6FC-7D0B-489A-B2BE-09D6E1099273}</Project>
+      <Name>DataGridGVeiwPrinter</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
